@@ -1,0 +1,36 @@
+#include<iostream>
+#include<vector>
+#include<utility>
+#include<algorithm>
+#include<string>
+using namespace std;
+bool cmp(const pair<string, int> &p1, const pair<string, int> &p2)
+{
+    if(p1.second!=p2.second)
+        return p1.second < p2.second;
+    return p1.first < p2.first;
+}
+int main()
+{
+	int t,m;
+	string name;
+	vector<pair <string,int> >  l;
+	
+	cin>>t;
+	while(t--)
+	{
+		cin>>name;
+		cin>>m;
+		pair <string,int> p(name,m);
+		//p.make_pair(name,m);
+		l.push_back(p);
+	
+	}
+	sort(l.begin(),l.end(),cmp);	
+	
+	for(vector<pair<string,int> > ::iterator i=l.begin();i!=l.end();i++)
+	{
+		cout<<i->first<<" "<<i->second<<endl;
+	}
+	return 0;
+}

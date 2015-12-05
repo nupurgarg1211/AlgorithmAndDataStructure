@@ -1,0 +1,41 @@
+/*
+Input: arr[] = {2, 3, 4, 5, 6}
+Output: arr[] = {6, 8, 15, 24, 30}*/
+#include<iostream>
+#include<cstdlib>
+using namespace std;
+int main()
+{
+	int a[]={2, 3, 4, 5, 6};
+	int n=sizeof(a)/sizeof(a[0]);
+	int ans[n];
+	if(n==1)
+	{
+		cout<<a[0]<<endl;
+		exit(0);
+	}
+	//cout<<a[1]<<endl;
+	for(int i=0;i<n;i++)
+	{
+		if(i==0 )
+		{
+			ans[i]=a[i]*a[i+1];
+				
+		
+		}
+		else if(i==n-1)
+		{
+			ans[i]=a[i]*a[i-1];
+		
+		}
+		else
+		ans[i]=a[i-1]*a[i+1];
+		
+	}
+	for(int i=0;i<n;i++)
+	{
+		cout<<ans[i]<<" ";
+	}
+
+	return 0;
+}
