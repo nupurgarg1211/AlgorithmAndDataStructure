@@ -1,8 +1,0 @@
- 2026  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
- 2027  sudo apt-get update
- 2028  sudo apt-get install gcc-4.9 g++-4.9
- 2029  gcc -v
- 2030  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-4.6
- 2031  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 40 --slave /usr/bin/g++ g++ /usr/bin/g++-4.9
- 2032  sudo update-alternatives --config gcc
-
