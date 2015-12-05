@@ -1,0 +1,69 @@
+/* Reverse an array */
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+void swap(int &a,int &b)
+{
+	int temp=a;
+	a=b;
+	b=temp;
+
+}
+void IReverse(int a[],int n)
+{
+	int l=0,r=n-1;
+	while(l<r)
+	{
+		swap(a[l],a[r]);
+		l++;
+		r--;
+	
+	}
+
+}
+void RReverse(int a[],int l,int r)
+{
+	if(l>=r)
+	{
+		return;
+	}
+	swap(a[l],a[r]);
+	
+	RReverse(a,l+1,r-1);	
+	
+
+}
+void print(int a[],int n)
+{
+	for(int i=0;i<n;i++)
+	{
+	
+		cout<<a[i]<<" ";
+	}
+	cout<<endl;
+}
+int main()
+{
+	int a[]={5,1,2,3,7,8};
+	vector<int> v;
+	v.push_back(5);
+	v.push_back(1);
+	v.push_back(2);
+	v.push_back(3);
+	v.push_back(7);
+	v.push_back(8);
+	reverse(v.begin(),v.end());
+	cout<<"Vector Reverse:"<<endl;
+	for(vector<int>::iterator i=v.begin();i!=v.end();i++)
+	{
+		cout<<*i<<" ";
+	}
+	int n=sizeof(a)/sizeof(a[0]);
+	IReverse(a,n);
+	cout<<"Array Reverse:"<<endl;
+	print(a,n);
+	RReverse(a,0,n-1);
+	print(a,n);
+	return 0;
+}

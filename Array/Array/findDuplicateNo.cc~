@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a[]= {4, 2, 4, 5, 2, 3, 1};
+	int size=sizeof(a)/sizeof(a[0]);
+	int xor1=0;
+	for(int i=0;i<size;i++)
+	{
+		//xor=x
+	
+	}
+	return 0;
+}

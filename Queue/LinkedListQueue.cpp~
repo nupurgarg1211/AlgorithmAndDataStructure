@@ -1,0 +1,160 @@
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<stdio.h>
+#include<cmath>
+#include<string>
+#include<cstdlib>
+using namespace std;
+class Node
+{
+	int data;
+	Node * next;
+	public:
+	Node(int d);
+	int getData();
+	void setData(int a);
+	Node * getNext();
+	void setNext(Node * a);
+
+};
+Node::Node(int d)
+{
+	data=d;
+	next=NULL;
+}
+int Node:: getData()
+{
+	return data;
+}
+void Node::setData(int a)
+{
+	data=a;
+}
+Node * Node:: getNext()
+{
+	return next;
+}
+void Node:: setNext(Node * a)
+{
+	next=a;
+
+}
+class Queue
+{
+	Node *front,*rear;
+	int capacity,size;
+	public:
+	Queue();
+	//Queue(int c);
+	Node *getFront();
+	Node *getRear();
+	
+	int getSize();
+	void setFront(Node *f);
+	void setRear(Node *r);
+	//void setCapacity(int c);
+	void setSize(int s);
+	void enqueue(int data);
+	void Traverse();
+	int dequeue();
+	
+	bool isEmpty();
+};
+Queue::Queue()
+{
+	front=NULL;
+	rear=NULL;
+}
+
+Node *Queue::getFront()
+{
+	return front;
+}
+Node *Queue::getRear()
+{
+	return rear;
+}
+//int Queue::getCapacity();
+int Queue:: getSize()
+{
+	return size;
+}
+void Queue::setFront(Node *f)
+{
+	front=f;
+
+}
+void Queue::setRear(Node *r)
+{
+	rear=r;
+	
+}
+//void Queue::setCapacity(int c);
+void Queue::setSize(int s)
+{
+	size = s;
+}
+void Queue::enqueue(int data)
+{
+	Node *newNode=new Node(data);
+	if(front==NULL)
+	front=newNode;	
+	if(rear==NULL)
+	{
+		rear=newNode;
+	}
+	else
+	{
+		rear->setNext(newNode);
+		rear=rear->getNext();
+	}
+	
+
+}
+int Queue::dequeue()
+{
+	if(isEmpty())
+	return -1;
+	
+	Node * temp=front;
+	int a=temp->getData();
+	front=front->getNext();
+	delete temp;
+	return a;
+
+}
+
+bool Queue::isEmpty()
+{
+	if(front==NULL )
+	return 1;
+	else 
+	return 0;
+}
+void Queue::Traverse()
+{
+	while(front!=NULL)
+	{
+		cout<<front->getData()<<endl;
+		front=front->getNext();
+	}
+
+}
+int main()
+
+{
+	Queue q;
+	q.enqueue(1);
+	q.enqueue(2);
+	q.enqueue(3);
+	q.enqueue(4);
+	
+	int a=q.dequeue();
+	q.Traverse();
+	cout<<a<<endl;
+	
+	
+				
+	return 0;	
+}

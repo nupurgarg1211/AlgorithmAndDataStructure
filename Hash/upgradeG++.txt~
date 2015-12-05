@@ -1,0 +1,1000 @@
+ 1039  ./a.out
+ 1040  g++ LLC++.cc
+ 1041  ./a.out
+ 1042  g++ LLC++.cc
+ 1043  ./a.out
+ 1044  g++ LLC++.cc
+ 1045  ./a.out
+ 1046  g++ LLC++.cc
+ 1047  ./a.out
+ 1048  g++ LLC++.cc
+ 1049  ./a.out
+ 1050  g++ LLC++.cc
+ 1051  ./a.out
+ 1052  g++ LLC++.cc
+ 1053  ./a.out
+ 1054  g++ LLC++.cc
+ 1055  ./a.out
+ 1056  g++ LLC++.cc
+ 1057  ./a.out
+ 1058  g++ LLC++.cc
+ 1059  ./a.out
+ 1060  g++ LLC++.cc
+ 1061  ./a.out
+ 1062  g++ LLC++.cc
+ 1063  ./a.out
+ 1064  g++ LLC++.cc
+ 1065  ./a.out
+ 1066  g++ LLC++.cc
+ 1067  ./a.out
+ 1068  g++ LLC++.cc
+ 1069  ./a.out
+ 1070  g++ LLC++.cc
+ 1071  ./a.out
+ 1072  g++ LLC++.cc
+ 1073  ./a.out
+ 1074  g++ LLC++.cc
+ 1075  ./a.out
+ 1076  g++ LLC++.cc
+ 1077  ./a.out
+ 1078  g++ LLC++.cc
+ 1079  ./a.out
+ 1080  g++ LLC++.cc
+ 1081  ./a.out
+ 1082  g++ LLC++.cc
+ 1083  ./a.out
+ 1084  g++ LLC++.cc
+ 1085  ./a.out
+ 1086  g++ LLC++.cc
+ 1087  ./a.out
+ 1088  g++ LLC++.cc
+ 1089  ./a.out
+ 1090  g++ LLC++.cc
+ 1091  ./a.out
+ 1092  g++ LLC++.cc
+ 1093  cd basic_programs/
+ 1094  ls
+ 1095  cd LinkedList/
+ 1096  g++ LLC++.cc
+ 1097  ./a.out
+ 1098  g++ LLC++.cc
+ 1099  ./a.out
+ 1100  g++ LLC++.cc
+ 1101  ./a.out
+ 1102  g++ LLC++.cc
+ 1103  ./a.out
+ 1104  g++ LLC++.cc
+ 1105  ./a.out
+ 1106  g++ LLC++.cc
+ 1107  ./a.out
+ 1108  g++ LLC++.cc
+ 1109  ./a.out
+ 1110  g++ LLC++.cc
+ 1111  ./a.out
+ 1112  g++ LLC++.cc
+ 1113  ./a.out
+ 1114  g++ LLC++.cc
+ 1115  clear
+ 1116  g++ LLC++.cc
+ 1117  clear
+ 1118  ./a.out
+ 1119  clear
+ 1120  g++ LLC++.cc
+ 1121  clear
+ 1122  ./a.out
+ 1123  clear
+ 1124  g++ LLC++.cc
+ 1125  ./a.out
+ 1126  g++ LLC++.cc
+ 1127  ./a.out
+ 1128  g++ LLC++.cc
+ 1129  ./a.out
+ 1130  g++ LLC++.cc
+ 1131  ./a.out
+ 1132  g++ MergeSortLL.cpp
+ 1133  ./a.out
+ 1134  g++ MergeSortLL.cpp
+ 1135  clear
+ 1136  g++ MergeSortLL.cpp
+ 1137  clear
+ 1138  g++ MergeSortLL.cpp
+ 1139  clear
+ 1140  ./a.out
+ 1141  clear
+ 1142  ./a.out
+ 1143  g++ MergeSortLL.cpp
+ 1144  ./a.out
+ 1145  g++ MergeSortLL.cpp
+ 1146  ./a.out
+ 1147  g++ MergeSortLL.cpp
+ 1148  ./a.out
+ 1149  g++ MergeSortLL.cpp
+ 1150  ./a.out
+ 1151  g++ MergeSortLL.cpp
+ 1152  ./a.out
+ 1153  g++ MergeSortLL.cpp
+ 1154  ./a.out
+ 1155  g++ MergeSortLL.cpp
+ 1156  clear
+ 1157  g++ MergeSortLL.cpp
+ 1158  clear
+ 1159  g++ MergeSortLL.cpp
+ 1160  clear
+ 1161  g++ MergeSortLL.cpp
+ 1162  clear
+ 1163  g++ MergeSortLL.cpp
+ 1164  clear
+ 1165  g++ MergeSortLL.cpp
+ 1166  clear
+ 1167  ./a.out
+ 1168  clear
+ 1169  g++ MergeSortLL.cpp
+ 1170  cd basic_programs/LinkedList/
+ 1171  ls
+ 1172  g++ MergeTwoSortedList.cpp
+ 1173  clear
+ 1174  ./a.out
+ 1175  g++ MergeTwoSortedList.cpp
+ 1176  ./a.out
+ 1177  g++ MergeTwoSortedList.cpp
+ 1178  ./a.out
+ 1179  g++ MergeTwoSortedList.cpp
+ 1180  ./a.out
+ 1181  g++ MergeTwoSortedList.cpp
+ 1182  ./a.out
+ 1183  g++ MergeTwoSortedList.cpp
+ 1184  ./a.out
+ 1185  g++ MergeTwoSortedList.cpp
+ 1186  ./a.out
+ 1187  g++ MergeTwoSortedList.cpp
+ 1188  ./a.out
+ 1189  g++ MergeTwoSortedList.cpp
+ 1190  ./a.out
+ 1191  g++ MergeTwoSortedList.cpp
+ 1192  ./a.out
+ 1193  g++ MergeTwoSortedList.cpp
+ 1194  ./a.out
+ 1195  g++ AlternateSplitOfLL.cpp
+ 1196  ./a.out
+ 1197  g++ AlternateSplitOfLL.cpp
+ 1198  ./a.out
+ 1199  g++ AlternateSplitOfLL.cpp
+ 1200  ./a.out
+ 1201  g++ AlternateSplitOfLL.cpp
+ 1202  ./a.out
+ 1203  g++ AlternateSplitOfLL.cpp
+ 1204  ./a.out
+ 1205  cd basic_programs/Stack/
+ 1206  g++ BasicOp.cpp
+ 1207  ./a.out
+ 1208  g++ BasicOp.cpp
+ 1209  ./a.out
+ 1210  g++ BasicOp.cpp
+ 1211  ./a.out
+ 1212  g++ BasicOp.cpp
+ 1213  ./a.out
+ 1214  g++ BasicOp.cpp
+ 1215  ./a.out
+ 1216  g++ BasicOp.cpp
+ 1217  ./a.out
+ 1218  g++ BasicOp.cpp
+ 1219  ./a.out
+ 1220  g++ BasicOp.cpp
+ 1221  ./a.out
+ 1222  g++ BasicOp.cpp
+ 1223  ./a.out
+ 1224  g++ BasicOp.cpp
+ 1225  ./a.out
+ 1226  g++ BasicOp.cpp
+ 1227  ./a.out
+ 1228  g++ BasicOp.cpp
+ 1229  ./a.out
+ 1230  g++ BasicOp.cpp
+ 1231  ./a.out
+ 1232  g++ BasicOp.cpp
+ 1233  ./a.out
+ 1234  g++ BasicOp.cpp
+ 1235  ./a.out
+ 1236  g++ BasicOp.cpp
+ 1237  ./a.out
+ 1238  g++ BasicOp.cpp
+ 1239  ./a.out
+ 1240  g++ BasicOp.cpp
+ 1241  ./a.out
+ 1242  g++ BasicOp.cpp
+ 1243  ./a.out
+ 1244  g++ BasicOp.cpp
+ 1245  ./a.out
+ 1246  g++ BasicOp.cpp
+ 1247  ./a.out
+ 1248  cd
+ 1249  cd codechef
+ 1250  ls
+ 1251  cd SNACKDOWN15/
+ 1252  ls
+ 1253  g++ XorBinary.cpp
+ 1254  ./a.out
+ 1255  g++ XorBinary.cpp
+ 1256  ./a.out
+ 1257  g++ NoArmy.cpp
+ 1258  ./a.out
+ 1259  exit
+ 1260  close
+ 1261  exit
+ 1262  cdcd basic_programs/
+ 1263  cd basic_programs/
+ 1264  ls
+ 1265  cd Stack/
+ 1266  ls
+ 1267  g++ BasicOp.cpp
+ 1268  clear
+ 1269  g++ BasicOp.cpp
+ 1270  clear
+ 1271  g++ BasicOp.cpp
+ 1272  clear
+ 1273  ./a.out
+ 1274  clear
+ 1275  g++ BasicOp.cpp
+ 1276  ./a.out
+ 1277  g++ BasicOp.cpp
+ 1278  ./a.out
+ 1279  g++ BasicOp.cpp
+ 1280  ./a.out
+ 1281  g++ BasicOp.cpp
+ 1282  ./a.out
+ 1283  g++ BasicOp.cpp
+ 1284  ./a.out
+ 1285  g++ BasicOp.cpp
+ 1286  ./a.out
+ 1287  g++ BasicOp.cpp
+ 1288  ./a.out
+ 1289  g++ BasicOp.cpp
+ 1290  ./a.out
+ 1291  g++ BasicOp.cpp
+ 1292  ./a.out
+ 1293  g++ BasicOp.cpp
+ 1294  ./a.out
+ 1295  g++ BasicOp.cpp
+ 1296  ./a.out
+ 1297  g++ BasicOp.cpp
+ 1298  ./a.out
+ 1299  g++ BasicOp.cpp
+ 1300  ./a.out
+ 1301  g++ BasicOp.cpp
+ 1302  ./a.out
+ 1303  g++ BasicOp.cpp
+ 1304  ./a.out
+ 1305  g++ BasicOp.cpp
+ 1306  ./a.out
+ 1307  g++ BasicOp.cpp
+ 1308  ./a.out
+ 1309  g++ BasicOp.cpp
+ 1310  ./a.out
+ 1311  g++ BasicOp.cpp
+ 1312  ./a.out
+ 1313  g++ BasicOp.cpp
+ 1314  ./a.out
+ 1315  g++ BasicOp.cpp
+ 1316  ./a.out
+ 1317  g++ BasicOp.cpp
+ 1318  ./a.out
+ 1319  g++ BasicOp.cpp
+ 1320  ./a.out
+ 1321  g++ BasicOp.cpp
+ 1322  ./a.out
+ 1323  cd ..
+ 1324  cd Queue/
+ 1325  ls
+ 1326  g++ BasicOpp.cpp
+ 1327  g++ BasicOp.cpp
+ 1328  g++ BasicOpp.cpp
+ 1329  ./a.out
+ 1330  g++ BasicOpp.cpp
+ 1331  ./a.out
+ 1332  g++ LinkedListQueue.cpp
+ 1333  ./a.out
+ 1334  g++ LinkedListQueue.cpp
+ 1335  ./a.out
+ 1336  g++ LinkedListQueue.cpp
+ 1337  ./a.out
+ 1338  g++ LinkedListQueue.cpp
+ 1339  ./a.out
+ 1340  g++ LinkedListQueue.cpp
+ 1341  ./a.out
+ 1342  g++ LinkedListQueue.cpp
+ 1343  ./a.out
+ 1344  g++ Dequeue.cpp
+ 1345  ./a.out
+ 1346  g++ Dequeue.cpp
+ 1347  ./a.out
+ 1348  g++ largestMultipleOfThree.cpp
+ 1349  clear
+ 1350  g++ largestMultipleOfThree.cpp
+ 1351  clear
+ 1352  g++ largestMultipleOfThree.cpp
+ 1353  clear
+ 1354  g++ largestMultipleOfThree.cpp
+ 1355  clear
+ 1356  g++ largestMultipleOfThree.cpp
+ 1357  clear
+ 1358  g++ largestMultipleOfThree.cpp
+ 1359  ./a.out
+ 1360  clear
+ 1361  g++ largestMultipleOfThree.cpp
+ 1362  clear
+ 1363  ./a.out
+ 1364  clear
+ 1365  g++ largestMultipleOfThree.cpp
+ 1366  clear
+ 1367  g++ largestMultipleOfThree.cpp
+ 1368  ./a.out
+ 1369  g++ largestMultipleOfThree.cpp
+ 1370  clear
+ 1371  g++ largestMultipleOfThree.cpp
+ 1372  ./a.out
+ 1373  g++ largestMultipleOfThree.cpp
+ 1374  ./a.out
+ 1375  g++ largestMultipleOfThree.cpp
+ 1376  ./a.out
+ 1377  g++ largestMultipleOfThree.cpp
+ 1378  ./a.out
+ 1379  g++ largestMultipleOfThree.cpp
+ 1380  ./a.out
+ 1381  g++ largestMultipleOfThree.cpp
+ 1382  ./a.out
+ 1383  g++ largestMultipleOfThree.cpp
+ 1384  ./a.out
+ 1385  g++ largestMultipleOfThree.cpp
+ 1386  ./a.out
+ 1387  g++ largestMultipleOfThree.cpp
+ 1388  ./a.out
+ 1389  g++ largestMultipleOfThree.cpp
+ 1390  ./a.out
+ 1391  g++ largestMultipleOfThree.cpp
+ 1392  ./a.out
+ 1393  g++ largestMultipleOfThree.cpp
+ 1394  ./a.out
+ 1395  g++ largestMultipleOfThree.cpp
+ 1396  ./a.out
+ 1397  g++ largestMultipleOfThree.cpp
+ 1398  ./a.out
+ 1399  g++ largestMultipleOfThree.cpp
+ 1400  ./a.out
+ 1401  g++ largestMultipleOfThree.cpp
+ 1402  ./a.out
+ 1403  g++ largestMultipleOfThree.cpp
+ 1404  ./a.out
+ 1405  g++ largestMultipleOfThree.cpp
+ 1406  ./a.out
+ 1407  g++ largestMultipleOfThree.cpp
+ 1408  ./a.out
+ 1409  g++ largestMultipleOfThree.cpp
+ 1410  ./a.out
+ 1411  g++ largestMultipleOfThree.cpp
+ 1412  ./a.out
+ 1413  g++ largestMultipleOfThree.cpp
+ 1414  ./a.out
+ 1415  g++ largestMultipleOfThree.cpp
+ 1416  ./a.out
+ 1417  g++ largestMultipleOfThree.cpp
+ 1418  ./a.out
+ 1419  g++ largestMultipleOfThree.cpp
+ 1420  ./a.out
+ 1421  g++ PetrolPump.cpp
+ 1422  gedit
+ 1423  cd basic_programs/
+ 1424  cd BT/
+ 1425  g++ RootToLeaf.cpp
+ 1426  clear
+ 1427  g++ RootToLeaf.cpp
+ 1428  clear
+ 1429  g++ RootToLeaf.cpp
+ 1430  ./a.out
+ 1431  g++ RootToLeaf.cpp
+ 1432  ./a.out
+ 1433  g++ RootToLeaf.cpp
+ 1434  ./a.out
+ 1435  g++ RootToLeaf.cpp
+ 1436  ./a.out
+ 1437  g++ RootToLeaf.cpp
+ 1438  ./a.out
+ 1439  g++ RootToLeaf.cpp
+ 1440  ./a.out
+ 1441  g++ RootToLeaf.cpp
+ 1442  ./a.out
+ 1443  g++ RootToLeaf.cpp
+ 1444  ./a.out
+ 1445  g++ RootToLeaf.cpp
+ 1446  ./a.out
+ 1447  g++ RootToLeaf.cpp
+ 1448  ./a.out
+ 1449  g++ RootToLeaf.cpp
+ 1450  ./a.out
+ 1451  g++ RootToLeaf.cpp
+ 1452  ./a.out
+ 1453  g++ RootToLeaf.cpp
+ 1454  ./a.out
+ 1455  g++ RootToLeaf.cpp
+ 1456  ./a.out
+ 1457  g++ RootToLeaf.cpp
+ 1458  ./a.out
+ 1459  g++ RootToLeaf.cpp
+ 1460  ./a.out
+ 1461  g++ RootToLeaf.cpp
+ 1462  ./a.out
+ 1463  g++ PrintKDistantNode.cpp
+ 1464  ./a.out
+ 1465  g++ PrintKDistantNode.cpp
+ 1466  ./a.out
+ 1467  g++ PrintKDistantNode.cpp
+ 1468  ./a.out
+ 1469  g++ PrintKDistantNode.cpp
+ 1470  ./a.out
+ 1471  cd ..
+ 1472  cd BST/
+ 1473  g++ InsertionAndSearch.cpp
+ 1474  cd BST/
+ 1475  g++ InsertionAndSearch.cpp
+ 1476  ./a.out
+ 1477  g++ InsertionAndSearch.cpp
+ 1478  ./a.out
+ 1479  g++ InsertionAndSearch.cpp
+ 1480  ./a.out
+ 1481  g++ InsertionAndSearch.cpp
+ 1482  ./a.out
+ 1483  g++ InsertionAndSearch.cpp
+ 1484  ./a.out
+ 1485  g++ InsertionAndSearch.cpp
+ 1486  ./a.out
+ 1487  g++ InsertionAndSearch.cpp
+ 1488  ./a.out
+ 1489  g++ InsertionAndSearch.cpp
+ 1490  ./a.out
+ 1491  g++ InsertionAndSearch.cpp
+ 1492  ./a.out
+ 1493  g++ InsertionAndSearch.cpp
+ 1494  ./a.out
+ 1495  g++ InsertionAndSearch.cpp
+ 1496  ./a.out
+ 1497  g++ InsertionAndSearch.cpp
+ 1498  ./a.out
+ 1499  g++ InsertionAndSearch.cpp
+ 1500  ./a.out
+ 1501  g++ InsertionAndSearch.cpp
+ 1502  ./a.out
+ 1503  g++ InsertionAndSearch.cpp
+ 1504  ./a.out
+ 1505  g++ InsertionAndSearch.cpp
+ 1506  ./a.out
+ 1507  g++ InsertionAndSearch.cpp
+ 1508  ./a.out
+ 1509  g++ InsertionAndSearch.cpp
+ 1510  ./a.out
+ 1511  g++ InsertionAndSearch.cpp
+ 1512  ./a.out
+ 1513  g++ InsertionAndSearch.cpp
+ 1514  ./a.out
+ 1515  cd basic_programs/BST/
+ 1516  g++ SmallestKthElement.cpp
+ 1517  ./a.out
+ 1518  g++ SmallestKthElement.cpp
+ 1519  ./a.out
+ 1520  g++ SmallestKthElement.cpp
+ 1521  ./a.out
+ 1522  g++ SmallestKthElement.cpp
+ 1523  ./a.out
+ 1524  g++ SmallestKthElement.cpp
+ 1525  ./a.out
+ 1526  g++ SmallestKthElement.cpp
+ 1527  ./a.out
+ 1528  g++ SmallestKthElement.cpp
+ 1529  ./a.out
+ 1530  g++ SmallestKthElement.cpp
+ 1531  ./a.out
+ 1532  g++ SmallestKthElement.cpp
+ 1533  ./a.out 
+ 1534  g++ SmallestKthElement.cpp\
+ 1535  g++ SmallestKthElement.cpp
+ 1536  ./a.out 
+ 1537  g++ SmallestKthElement.cpp
+ 1538  ./a.out 
+ 1539  g++ SmallestKthElement.cpp
+ 1540  ./a.out 
+ 1541  g++ SmallestKthElement.cpp
+ 1542  ./a.out 
+ 1543  g++ SmallestKthElement.cpp
+ 1544  ./a.out 
+ 1545  g++ SmallestKthElement.cpp
+ 1546  ./a.out 
+ 1547  g++ SmallestKthElement.cpp
+ 1548  ./a.out 
+ 1549  g++ SmallestKthElement.cpp
+ 1550  ./a.out 
+ 1551  g++ SmallestKthElement.cpp
+ 1552  ./a.out 
+ 1553  g++ SmallestKthElement.cpp
+ 1554  ./a.out 
+ 1555  g++ SmallestKthElement.cpp
+ 1556  ./a.out 
+ 1557  g++ SmallestKthElement.cpp
+ 1558  ./a.out 
+ 1559  g++ SmallestKthElement.cpp
+ 1560  ./a.out 
+ 1561  g++ SmallestKthElement.cpp
+ 1562  ./a.out 
+ 1563  g++ SmallestKthElement.cpp
+ 1564  ./a.out 
+ 1565  g++ SmallestKthElement.cpp
+ 1566  ./a.out 
+ 1567  g++ SmallestKthElement.cpp
+ 1568  ./a.out 
+ 1569  g++ SmallestKthElement.cpp
+ 1570  ./a.out 
+ 1571  g++ SmallestKthElement.cpp
+ 1572  ./a.out 
+ 1573  g++ SmallestKthElement.cpp
+ 1574  ./a.out 
+ 1575  g++ SmallestKthElement.cpp
+ 1576  ./a.out 
+ 1577  g++ SmallestKthElement.cpp
+ 1578  ./a.out 
+ 1579  g++ SmallestKthElement.cpp
+ 1580  ./a.out 
+ 1581  g++ SmallestKthElement.cpp
+ 1582  ./a.out 
+ 1583  g++ SmallestKthElement.cpp
+ 1584  ./a.out 
+ 1585  g++ SmallestKthElement.cpp
+ 1586  ./a.out 
+ 1587  g++ SmallestKthElement.cpp
+ 1588  ./a.out 
+ 1589  g++ SmallestKthElement.cpp
+ 1590  ./a.out 
+ 1591  g++ SmallestKthElement.cpp
+ 1592  ./a.out 
+ 1593  g++ SmallestKthElement.cpp
+ 1594  ./a.out 
+ 1595  g++ SmallestKthElement.cpp
+ 1596  ./a.out 
+ 1597  g++ SmallestKthElement.cpp
+ 1598  ./a.out 
+ 1599  g++ SmallestKthElement.cpp
+ 1600  ./a.out 
+ 1601  cd ..
+ 1602  cd BT
+ 1603  g++ PrintKDistantNode.cpp
+ 1604  cd BT
+ 1605  ./a.out 
+ 1606  cd BT
+ 1607  g++ PrintKDistantNode.cpp
+ 1608  ./a.out 
+ 1609  g++ PrintKDistantNode.cpp
+ 1610  ./a.out 
+ 1611  g++ PrintKDistantNode.cpp
+ 1612  ./a.out 
+ 1613  g++ PrintKDistantNode.cpp
+ 1614  ./a.out 
+ 1615  g++ PrintKDistantNode.cpp
+ 1616  ./a.out 
+ 1617  g++ PrintKDistantNode.cpp
+ 1618  ./a.out 
+ 1619  g++ PrintKDistantNode.cpp
+ 1620  ./a.out 
+ 1621  g++ PrintKDistantNode.cpp
+ 1622  ./a.out 
+ 1623  cd ..
+ 1624  cd BST/
+ 1625  g++ SmallestKthElement.cpp
+ 1626  ./a.out 
+ 1627  g++ Floor&Ceil.cpp
+ 1628  g++ Floor\&Ceil.cpp
+ 1629  ./a.out
+ 1630  g++ Floor\&Ceil.cpp
+ 1631  ./a.out
+ 1632  g++ Floor\&Ceil.cpp
+ 1633  ./a.out
+ 1634  g++ Floor\&Ceil.cpp
+ 1635  ./a.out
+ 1636  g++ Floor\&Ceil.cpp
+ 1637  ./a.out
+ 1638  g++ Floor\&Ceil.cpp
+ 1639  ./a.out
+ 1640  cd basic_programs/Heap/
+ 1641  g++ HeapOpp.cpp
+ 1642  ./a.out
+ 1643  g++ HeapOpp.cpp
+ 1644  ./a.out
+ 1645  g++ HeapOpp.cpp
+ 1646  ./a.out
+ 1647  g++ HeapOpp.cpp
+ 1648  ./a.out
+ 1649  g++ HeapOpp.cpp
+ 1650  ./a.out
+ 1651  cd basic_programs/Heap/
+ 1652  g++ HeapOpp.cpp
+ 1653  ./a.out
+ 1654  g++ HeapOpp.cpp
+ 1655  ./a.out
+ 1656  g++ HeapOpp.cpp
+ 1657  ./a.out
+ 1658  g++ HeapOpp.cpp
+ 1659  ./a.out
+ 1660  g++ Heap.cpp
+ 1661  cd ..
+ 1662  g++ tripletSum.cpp
+ 1663  ./a.out
+ 1664  g++ tripletSum.cpp
+ 1665  ./a.out
+ 1666  g++ mergeMPlusNArray.cpp
+ 1667  ./a.out
+ 1668  g++ mergeMPlusNArray.cpp
+ 1669  ./a.out
+ 1670  g++ mergeMPlusNArray.cpp
+ 1671  ./a.out
+ 1672  g++ mergeMPlusNArray.cpp
+ 1673  ./a.out
+ 1674  g++ mergeMPlusNArray.cpp
+ 1675  ./a.out
+ 1676  g++ mergeMPlusNArray.cpp
+ 1677  ./a.out
+ 1678  g++ mergeMPlusNArray.cpp
+ 1679  ./a.out
+ 1680  g++ mergeMPlusNArray.cpp
+ 1681  ./a.out
+ 1682  g++ mergeMPlusNArray.cpp
+ 1683  ./a.out
+ 1684  g++ search.cpp
+ 1685  ./a.out
+ 1686  g++ search.cpp
+ 1687  ./a.out
+ 1688  g++ search.cpp
+ 1689  ./a.out
+ 1690  g++ search.cpp
+ 1691  ./a.out
+ 1692  reset
+ 1693  g++ search.cpp
+ 1694  ./a.out
+ 1695  reset
+ 1696  g++ search.cpp
+ 1697  ./a.out 
+ 1698  g++ search.cpp
+ 1699  ./a.out 
+ 1700  g++ search_n.cpp
+ 1701  ./a.out 
+ 1702  g++ Leader.cpp
+ 1703  ./a.out
+ 1704  g++ ZeroOneCombination.cpp
+ 1705  ./a.out
+ 1706  g++ ZeroOneCombination.cpp
+ 1707  ./a.out
+ 1708  g++ ZeroOneCombination.cpp
+ 1709  ./a.out
+ 1710  g++ ZeroOneCombination.cpp
+ 1711  ./a.out
+ 1712  cd Array/
+ 1713  g++ SumNearToZero.cpp
+ 1714  ./a.out
+ 1715  g++ SumNearToZero.cpp
+ 1716  ./a.out
+ 1717  g++ SumNearToZero.cpp
+ 1718  ./a.out
+ 1719  g++ SumNearToZero.cpp
+ 1720  ./a.out
+ 1721  g++ SumNearToZero.cpp
+ 1722  ./a.out
+ 1723  g++ SumNearToZero.cpp
+ 1724  ./a.out
+ 1725  g++ TwoSmallestNo.cpp
+ 1726  ./a.out
+ 1727  g++ TwoSmallestNo.cpp
+ 1728  ./a.out
+ 1729  g++ TwoSmallestNo.cpp
+ 1730  ./a.out
+ 1731  g++ TwoSmallestNo.cpp
+ 1732  ./a.out
+ 1733  g++ TwoSmallestNo.cpp
+ 1734  ./a.out
+ 1735  g++ TwoSmallestNo.cpp
+ 1736  ./a.out
+ 1737  g++ MajorityElement.cpp
+ 1738  ./a.out
+ 1739  g++ MajorityElement.cpp
+ 1740  ./a.out
+ 1741  g++ MajorityElement.cpp
+ 1742  ./a.out
+ 1743  g++ NextGreaterElementRightSide.cpp
+ 1744  ./a.out
+ 1745  g++ NextGreaterElementRightSide.cpp
+ 1746  ./a.out
+ 1747  g++ NextGreaterElementRightSide.cpp
+ 1748  ./a.out
+ 1749  g++ NextGreaterElementRightSide.cpp
+ 1750  ./a.out
+ 1751  g++ NextGreaterElementRightSide.cpp
+ 1752  ./a.out
+ 1753  cd basic_programs/Array/
+ 1754  g++ SequenceEvenOdd.cpp
+ 1755  ./a.out
+ 1756  g++ SequenceEvenOdd.cpp
+ 1757  ./a.out
+ 1758  g++ SequenceEvenOdd.cpp
+ 1759  ./a.out
+ 1760  g++ SequenceEvenOdd.cpp
+ 1761  ./a.out
+ 1762  g++ SequenceEvenOdd.cpp
+ 1763  ./a.out
+ 1764  g++ SequenceEvenOdd.cpp
+ 1765  ./a.out
+ 1766  g++ SequenceEvenOdd.cpp
+ 1767  ./a.out
+ 1768  g++ SequenceEvenOdd.cpp
+ 1769  ./a.out
+ 1770  cd basic_programs/Array/
+ 1771  g++ Union\&Intersection.cpp
+ 1772  ./a.out
+ 1773  g++ Union\&Intersection.cpp
+ 1774  ./a.out
+ 1775  g++ Union\&Intersection.cpp
+ 1776  ./a.out
+ 1777  g++ Union\&Intersection.cpp
+ 1778  ./a.out
+ 1779  g++ FloorAndCeil.cpp
+ 1780  ./a.out
+ 1781  g++ FloorAndCeil.cpp
+ 1782  ./a.out
+ 1783  g++ FloorAndCeil.cpp
+ 1784  ./a.out
+ 1785  g++ FloorAndCeil.cpp
+ 1786  ./a.out
+ 1787  g++ EquillibriumIndex.cpp
+ 1788  ./a.out
+ 1789  g++ EquillibriumIndex.cpp
+ 1790  ./a.out
+ 1791  g++ BinarySearch.cpp
+ 1792  ./a.out
+ 1793  g++ BinarySearch.cpp
+ 1794  ./a.out
+ 1795  g++ BinarySearch.cpp
+ 1796  ./a.out
+ 1797  g++ BinarySearch.cpp
+ 1798  ./a.out
+ 1799  cd ..
+ 1800  g++ minEquationVariable.cpp
+ 1801  ./a.out
+ 1802  g++ minEquationVariable.cpp
+ 1803  ./a.out
+ 1804  g++ minEquationVariable.cpp
+ 1805  ./a.out
+ 1806  g++ minEquationVariable.cpp
+ 1807  ./a.out
+ 1808  g++ minEquationVariable.cpp
+ 1809  ./a.out
+ 1810  g++ minEquationVariable.cpp
+ 1811  ./a.out
+ 1812  g++ minEquationVariable.cpp
+ 1813  ./a.out
+ 1814  g++ minEquationVariable.cpp
+ 1815  ./a.out
+ 1816  g++ minEquationVariable.cpp
+ 1817  ./a.out
+ 1818  g++ minEquationVariable.cpp
+ 1819  ./a.out
+ 1820  g++ minEquationVariable.cpp
+ 1821  ./a.out
+ 1822  g++ minEquationVariable.cpp
+ 1823  ./a.out
+ 1824  g++ minEquationVariable.cpp
+ 1825  ./a.out
+ 1826  g++ minEquationVariable.cpp
+ 1827  ./a.out
+ 1828  g++ MonkimessOfNo.cpp
+ 1829  ./a.out
+ 1830  g++ MonkimessOfNo.cpp
+ 1831  ./a.out
+ 1832  g++ MonkimessOfNo.cpp
+ 1833  ./a.out
+ 1834  cd basic_programs/
+ 1835  g++ stackOPP.cpp
+ 1836  clear
+ 1837  g++ stackOPP.cpp
+ 1838  ./a.out
+ 1839  g++ stackOPP.cpp
+ 1840  ./a.out
+ 1841  g++ stackOPP.cpp
+ 1842  ./a.out
+ 1843  g++ stackOPP.cpp
+ 1844  ./a.out
+ 1845  g++ stackOPP.cpp
+ 1846  ./a.out
+ 1847  g++ stackOPP.cpp
+ 1848  ./a.out
+ 1849  g++ stackOPP.cpp
+ 1850  ./a.out
+ 1851  g++ stackOPP.cpp
+ 1852  ./a.out
+ 1853  g++ stackOPP.cpp
+ 1854  ./a.out
+ 1855  g++ stackOPP.cpp
+ 1856  ./a.out
+ 1857  g++ stackOPP.cpp
+ 1858  ./a.out
+ 1859  g++ stackOPP.cpp
+ 1860  ./a.out
+ 1861  g++ stackOPP.cpp
+ 1862  ./a.out
+ 1863  g++ stackOPP.cpp
+ 1864  ./a.out
+ 1865  g++ stackOPP.cpp
+ 1866  ./a.out
+ 1867  g++ stackOPP.cpp
+ 1868  ./a.out
+ 1869  g++ Ceil.cpp
+ 1870  ./a.out
+ 1871  g++ Ceil.cpp
+ 1872  ./a.out
+ 1873  g++ Ceil.cpp
+ 1874  ./a.out
+ 1875  g++ Ceil.cpp
+ 1876  ./a.out
+ 1877  g++ Ceil.cpp
+ 1878  ./a.out
+ 1879  g++ Ceil.cpp
+ 1880  ./a.out
+ 1881  g++ Ceil.cpp
+ 1882  ./a.out
+ 1883  g++ Ceil.cpp
+ 1884  ./a.out
+ 1885  g++ Ceil.cpp
+ 1886  ./a.out
+ 1887  g++ Ceil.cpp
+ 1888  ./a.out
+ 1889  cd Hash/
+ 1890  g++ Union\&Intersection.cc
+ 1891  clear
+ 1892  g++ Union\&Intersection.cc
+ 1893  ./a.out
+ 1894  g++ Union\&Intersection.cc
+ 1895  ./a.out
+ 1896  g++ Union\&Intersection.cc
+ 1897  ./a.out
+ 1898  g++ Union\&Intersection.cc
+ 1899  ./a.out
+ 1900  g++ Union\&Intersection.cc
+ 1901  ./a.out
+ 1902  g++ Union\&Intersection.cc
+ 1903  ./a.out
+ 1904  g++ Union\&Intersection.cc
+ 1905  ./a.out
+ 1906  g++ Union\&Intersection.cc
+ 1907  ./a.out
+ 1908  g++ Union\&Intersection.cc
+ 1909  ./a.out
+ 1910  g++ Union\&Intersection.cc
+ 1911  ./a.out
+ 1912  cd
+ 1913  cd codechef
+ 1914  cd cd SNACKDOWN15/
+ 1915  ls
+ 1916  cd SNACKDOWN15/
+ 1917  g++ TableTennis.cpp
+ 1918  ./a.out
+ 1919  g++ TableTennis.cpp
+ 1920  ./a.out
+ 1921  g++ TableTennis.cpp
+ 1922  ./a.out
+ 1923  g++ TableTennis.cpp
+ 1924  ./a.out
+ 1925  g++ TableTennis.cpp
+ 1926  ./a.out
+ 1927  g++ TableTennis.cpp
+ 1928  ./a.out
+ 1929  g++ TableTennis.cpp
+ 1930  ./a.out
+ 1931  g++ TableTennis.cpp
+ 1932  ./a.out
+ 1933  g++ TableTennis.cpp
+ 1934  ./a.out
+ 1935  g++ TableTennis.cpp
+ 1936  ./a.out
+ 1937  g++ TableTennis.cpp
+ 1938  ./a.out
+ 1939  g++ TableTennis.cpp
+ 1940  ./a.out
+ 1941  g++ TableTennis.cpp
+ 1942  ./a.out
+ 1943  g++ TableTennis.cpp
+ 1944  ./a.out
+ 1945  g++ TableTennis.cpp
+ 1946  ./a.out
+ 1947  g++ TableTennis.cpp
+ 1948  ./a.out
+ 1949  g++ TableTennis.cpp
+ 1950  ./a.out
+ 1951  g++ TableTennis.cpp
+ 1952  ./a.out
+ 1953  g++ TableTennis.cpp
+ 1954  ./a.out
+ 1955  g++ TableTennis.cpp
+ 1956  ./a.out
+ 1957  #include<cstring>
+ 1958  #include<stdio.h>
+ 1959  using namespace std;
+ 1960  int main()
+ 1961  { int t; cin>>t; while(t--); { char s[100]; scanf("%s",s);
+ 1962  t count=0,countZero=0,flag2=0,temp=0;
+ 1963  t i=0;i<strlen(s);i++)
+ 1964  t++;
+ 1965  tZero++;
+ 1966  cd codechef
+ 1967  cd SNACKDOWN15/
+ 1968  ls
+ 1969  g++ TableTennis.cpp
+ 1970  ./a.out
+ 1971  g++ DivisibilityBY9.cc
+ 1972  ./a.out
+ 1973  g++ DivisibilityBY9.cc
+ 1974  ./a.out
+ 1975  g++ DivisibilityBY9.cc
+ 1976  ./a.out
+ 1977  g++ DivisibilityBY9.cc
+ 1978  ./a.out
+ 1979  g++ DivisibilityBY9.cc
+ 1980  ./a.out
+ 1981  cd codechef
+ 1982  cd SNACKDOWN15/
+ 1983  ls
+ 1984  g++ DivisibilityBY9.cc
+ 1985  ./a.out
+ 1986  cd basic_programs/Hash/
+ 1987  g++ VerticalOrder.cc
+ 1988  clear
+ 1989  g++ VerticalOrder.cc
+ 1990  ./a.out
+ 1991  g++ VerticalOrder.cc
+ 1992  ./a.out
+ 1993  g++ Union\&Intersection.cc
+ 1994  clear
+ 1995  g++ Union\&Intersection.cc
+ 1996  ./a.out
+ 1997  g++ Union\&Intersection.cc
+ 1998  ./a.out
+ 1999  g++ Union\&Intersection.cc
+ 2000  ./a.out
+ 2001  g++ Union\&Intersection.cc
+ 2002  ./a.out
+ 2003  g++ Union\&Intersection.cc
+ 2004  ./a.out
+ 2005  g++ Union\&Intersection.cc
+ 2006  ./a.out
+ 2007  g++ Union\&Intersection.cc
+ 2008  g++ Union\&Intersection.cc std-c++11
+ 2009  g++ Union\&Intersection.cc -std=c++11
+ 2010  gcc -v
+ 2011* g++ Union\&Intersect
+ 2012  g++ Union\&Intersection.cc
+ 2013  g++ Union\&Intersection.cc -std=c++11
+ 2014  gcc -v
+ 2015  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+ 2016  sudo apt-get update
+ 2017  sudo apt-get install g++4.9
+ 2018  sudo apt-get install g++-4.9
+ 2019  g++ -v
+ 2020  gcc -v
+ 2021  g++ Union\&Intersection.cc -std=c++11
+ 2022  gcc -v
+ 2023  g++ -v
+ 2024  sudo apt-get install gcc-4.9 g++-4.9
+ 2025  gcc -v
+ 2026  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+ 2027  sudo apt-get update
+ 2028  sudo apt-get install gcc-4.9 g++-4.9
+ 2029  gcc -v
+ 2030  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.6 60 --slave /usr/bin/g++ g++ /usr/bin/g++-4.6
+ 2031  sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.9 40 --slave /usr/bin/g++ g++ /usr/bin/g++-4.9
+ 2032  sudo update-alternatives --config gcc
+ 2033  gcc -v
+ 2034  g++ -v
+ 2035  reset
+ 2036  g++ Union\&Intersection.cc
+ 2037  g++ Union\&Intersection.cc -std=c++11
+ 2038  history>upgradeG++.txt

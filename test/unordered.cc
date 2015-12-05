@@ -1,0 +1,16 @@
+#include<iostream>
+#include<unordered_map>
+
+using namespace std;
+
+int main(){
+	unordered_map<int,int> m;
+	unordered_map<int,int>::iterator it;
+	m[10]=5;
+	m[2]=7;
+	m[50]=8;
+	m[4]=2;
+	for(it = m.begin(); it != m.end(); it++)
+		cout << it->first <<  "  " << it->second << endl;
+	return 0;
+}

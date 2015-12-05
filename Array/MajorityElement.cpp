@@ -1,0 +1,47 @@
+#include<iostream>
+using namespace std;
+int search(int a[],int key,int size)
+{
+	int start=0,end=size-1,mid;
+	while(start<end)
+	{
+		mid=(start+end)/2;
+		if(a[mid]==key)
+		{
+			while(a[mid-1]==a[mid])
+			{
+				mid--;
+			}
+			return mid;
+		
+		}
+		if(a[mid]<key)
+		{
+			start=mid+1;
+		}
+		else 
+		{
+			end=mid-1;
+		}
+	
+	}
+
+}
+void findMajorityElement(int a[],int key,int size)
+{
+	int loc=search(a,key,size);
+	loc=loc+(size/2);
+	if(a[loc]==key)
+	cout<<"YES it's a majority element"<<endl;
+	else
+	cout<<"NO it's not majority element"<<endl;	
+
+}
+int main()
+{
+	int a[]={1,2,3,3,3,3,10},key;
+	int size=sizeof(a)/sizeof(a[0]);
+	cin>>key;
+	findMajorityElement(a,key,size);
+	return 0;
+}
